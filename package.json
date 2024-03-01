@@ -1,0 +1,15 @@
+{
+  "name": "language-flag",
+  "version": "1.0.0",
+  "description": "Language Flag Lookup",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivernet/language-flag.git"
+  },
+  "author": "vivernet \"alex.1501@icloud.com\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vivernet/language-flag/issues"
+  },
+  "homepage": "https://github.com/vivernet/language-flag#readme"
+}
